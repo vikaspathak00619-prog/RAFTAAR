@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "app": "RAFTAAR",
+  "channel": "stable",
+  "latestVersionCode": 0,
+  "latestVersionName": "6.0.0",
+  "minimumSupportedVersionCode": 0,
+  "mandatory": false,
+  "apkUrl": "",
+  "sha256": "",
+  "releaseNotes": "Update information will be published here."
+}
